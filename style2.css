@@ -7,6 +7,8 @@ body {
 	background-clip: content-box;
 	background-color: #F0FBE9;
 	height: 100%;
+	margin: auto;
+	width: 1000px !important;
 }
 
 .container-fluid { 
