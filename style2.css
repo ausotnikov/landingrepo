@@ -1,5 +1,17 @@
+@font-face {
+    font-family: ProximaNova; /* Гарнитура шрифта */
+    font-style: normal;
+   // font-weight: 400;
+   // font-display:swap;
+    src:  
+    	url(fonts/ProximaNova-Regular.woff)format('woff'),
+    	url(fonts/ProximaNova-Bold.woff)format('woff')
+   }
+
 body {
-  background: #555;
+	  background: #555;
+	  font-family: ProximaNova, Helvetica,sans-serif;
+
 }
 
 .bg-1{
